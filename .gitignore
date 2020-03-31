@@ -1,4 +1,5 @@
 .python-version
+.mypy_cache
 venv
 *.pyc
 staticfiles
